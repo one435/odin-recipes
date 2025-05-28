@@ -1,0 +1,13 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: azure;
+}
+h1{
+    text-align: center;
+    color: cadetblue;
+}
+img{
+    display: block;
+    margin:auto;
+    border: 10px solid beige;
+}
